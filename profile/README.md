@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to MediaCat! Learn more about our software in the [document wiki](https://github.com/UTMediaCAT/mediacat-docs/wiki)
+
 <!--
 
 **Here are some ideas to get you started:**
